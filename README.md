@@ -4,7 +4,7 @@ ionic ngcordova barccode
 
 clone the repo
 
-run:
---npm install
---ionic state reset
---ionic run android 
+#how to run
+-npm install
+-ionic state reset
+-ionic run android 
